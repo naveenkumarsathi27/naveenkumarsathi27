@@ -9,3 +9,12 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local test output
+cost_results.csv
