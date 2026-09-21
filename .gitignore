@@ -1,0 +1,11 @@
+# Environment / secrets — never commit real credentials
+.env
+.env.local
+.env.*.local
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
